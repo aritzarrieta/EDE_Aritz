@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_6LzvgGCSEeuZ8OMmc9-9tA" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_74xAkGCSEeuZ8OMmc9-9tA" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_74xAkmCSEeuZ8OMmc9-9tA" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_74xnoGCSEeuZ8OMmc9-9tA" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_74xnoWCSEeuZ8OMmc9-9tA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_74xnomCSEeuZ8OMmc9-9tA" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_fvUNIGCTEeuZ8OMmc9-9tA" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="PersonaPrueba.uml#_fClC8GCTEeuZ8OMmc9-9tA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fvUNIWCTEeuZ8OMmc9-9tA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_mZN5UGCTEeuZ8OMmc9-9tA" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="PersonaPrueba.uml#_l3sgoGCTEeuZ8OMmc9-9tA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_mZN5UWCTEeuZ8OMmc9-9tA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_74xno2CSEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_74xnpGCSEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_74xnpWCSEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_74xnpmCSEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_74xnp2CSEeuZ8OMmc9-9tA" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_1lJQ8GCTEeuZ8OMmc9-9tA" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="PersonaPrueba.uml#_1lAHAGCTEeuZ8OMmc9-9tA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1lJQ8WCTEeuZ8OMmc9-9tA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8tJOYGCTEeuZ8OMmc9-9tA" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="PersonaPrueba.uml#_8tB5oGCTEeuZ8OMmc9-9tA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_8tJOYWCTEeuZ8OMmc9-9tA"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_74xnqGCSEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_74xnqWCSEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_74xnqmCSEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_74xnq2CSEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_74xnrGCSEeuZ8OMmc9-9tA" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_74xnrWCSEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_74xnrmCSEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_74xnr2CSEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_74xnsGCSEeuZ8OMmc9-9tA"/>
+    </children>
+    <element xmi:type="uml:Class" href="PersonaPrueba.uml#_74vycGCSEeuZ8OMmc9-9tA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_74xAkWCSEeuZ8OMmc9-9tA" x="280" y="120"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_6LzvgWCSEeuZ8OMmc9-9tA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_6LzvgmCSEeuZ8OMmc9-9tA"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_6Lzvg2CSEeuZ8OMmc9-9tA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="PersonaPrueba.uml#_6LipwGCSEeuZ8OMmc9-9tA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="PersonaPrueba.uml#_6LipwGCSEeuZ8OMmc9-9tA"/>
+</notation:Diagram>

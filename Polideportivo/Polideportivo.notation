@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_VAhW4GCNEeu1TbC6FHBbbQ" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_l0YVoGCNEeu1TbC6FHBbbQ" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_l0YVomCNEeu1TbC6FHBbbQ" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_l0YVo2CNEeu1TbC6FHBbbQ" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_l0YVpGCNEeu1TbC6FHBbbQ" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_l0YVpWCNEeu1TbC6FHBbbQ" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_l0YVpmCNEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_l0YVp2CNEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_l0YVqGCNEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l0YVqWCNEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_l0YVqmCNEeu1TbC6FHBbbQ" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_l0YVq2CNEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_l0YVrGCNEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_l0YVrWCNEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l0YVrmCNEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_l0YVr2CNEeu1TbC6FHBbbQ" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_l0YVsGCNEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_l0YVsWCNEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_l0YVsmCNEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l0YVs2CNEeu1TbC6FHBbbQ"/>
+    </children>
+    <element xmi:type="uml:Class" href="Polideportivo.uml#_l0OkoGCNEeu1TbC6FHBbbQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l0YVoWCNEeu1TbC6FHBbbQ" x="220" y="160"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_HYJnQWCOEeu1TbC6FHBbbQ" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HYJnQ2COEeu1TbC6FHBbbQ" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HYJnRGCOEeu1TbC6FHBbbQ" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HYJnRWCOEeu1TbC6FHBbbQ" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_HYJnRmCOEeu1TbC6FHBbbQ" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HYJnR2COEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_HYJnSGCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_HYJnSWCOEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HYJnSmCOEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_HYJnS2COEeu1TbC6FHBbbQ" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HYJnTGCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_HYJnTWCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_HYJnTmCOEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HYJnT2COEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_HYJnUGCOEeu1TbC6FHBbbQ" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HYJnUWCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_HYJnUmCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_HYJnU2COEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HYJnVGCOEeu1TbC6FHBbbQ"/>
+    </children>
+    <element xmi:type="uml:Class" href="Polideportivo.uml#_HYJnQGCOEeu1TbC6FHBbbQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HYJnQmCOEeu1TbC6FHBbbQ" x="420" y="60"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_IjcVsWCOEeu1TbC6FHBbbQ" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_IjcVs2COEeu1TbC6FHBbbQ" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IjcVtGCOEeu1TbC6FHBbbQ" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_IjcVtWCOEeu1TbC6FHBbbQ" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IjcVtmCOEeu1TbC6FHBbbQ" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_IjcVt2COEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_IjcVuGCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IjcVuWCOEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IjcVumCOEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IjcVu2COEeu1TbC6FHBbbQ" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_IjcVvGCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_IjcVvWCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IjcVvmCOEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IjcVv2COEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IjcVwGCOEeu1TbC6FHBbbQ" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_IjcVwWCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_IjcVwmCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IjcVw2COEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IjcVxGCOEeu1TbC6FHBbbQ"/>
+    </children>
+    <element xmi:type="uml:Class" href="Polideportivo.uml#_IjcVsGCOEeu1TbC6FHBbbQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IjcVsmCOEeu1TbC6FHBbbQ" x="240" y="320"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Lfl9wWCOEeu1TbC6FHBbbQ" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Lfl9w2COEeu1TbC6FHBbbQ" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Lfl9xGCOEeu1TbC6FHBbbQ" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Lfl9xWCOEeu1TbC6FHBbbQ" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Lfl9xmCOEeu1TbC6FHBbbQ" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Lfl9x2COEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Lfl9yGCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Lfl9yWCOEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lfl9ymCOEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Lfl9y2COEeu1TbC6FHBbbQ" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Lfl9zGCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Lfl9zWCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Lfl9zmCOEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lfl9z2COEeu1TbC6FHBbbQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Lfl90GCOEeu1TbC6FHBbbQ" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Lfl90WCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Lfl90mCOEeu1TbC6FHBbbQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Lfl902COEeu1TbC6FHBbbQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lfl91GCOEeu1TbC6FHBbbQ"/>
+    </children>
+    <element xmi:type="uml:Class" href="Polideportivo.uml#_Lfl9wGCOEeu1TbC6FHBbbQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lfl9wmCOEeu1TbC6FHBbbQ" x="600" y="300"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_cBXcEGCQEeuZ8OMmc9-9tA" type="AssociationClass_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_cBXcEmCQEeuZ8OMmc9-9tA" type="AssociationClass_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_cBXcE2CQEeuZ8OMmc9-9tA" type="AssociationClass_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cBXcFGCQEeuZ8OMmc9-9tA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_cBXcFWCQEeuZ8OMmc9-9tA" type="AssociationClass_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_cBXcFmCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cBXcF2CQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cBXcGGCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cBXcGWCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_cBXcGmCQEeuZ8OMmc9-9tA" type="AssociationClass_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_cBXcG2CQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cBXcHGCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cBXcHWCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cBXcHmCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_cBYDIGCQEeuZ8OMmc9-9tA" type="AssociationClass_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_cBYDIWCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cBYDImCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cBYDI2CQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cBYDJGCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <element xmi:type="uml:AssociationClass" href="Polideportivo.uml#_cAsGoGCQEeuZ8OMmc9-9tA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cBXcEWCQEeuZ8OMmc9-9tA" x="40" y="260"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_f655cGCQEeuZ8OMmc9-9tA" type="AssociationClass_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f655cmCQEeuZ8OMmc9-9tA" type="AssociationClass_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_f655c2CQEeuZ8OMmc9-9tA" type="AssociationClass_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_f66ggGCQEeuZ8OMmc9-9tA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_f66ggWCQEeuZ8OMmc9-9tA" type="AssociationClass_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f66ggmCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_f66gg2CQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_f66ghGCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f66ghWCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_f66ghmCQEeuZ8OMmc9-9tA" type="AssociationClass_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f66gh2CQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_f66giGCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_f66giWCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f66gimCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_f66gi2CQEeuZ8OMmc9-9tA" type="AssociationClass_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f66gjGCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_f66gjWCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_f66gjmCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f66gj2CQEeuZ8OMmc9-9tA"/>
+    </children>
+    <element xmi:type="uml:AssociationClass" href="Polideportivo.uml#_f6HPQGCQEeuZ8OMmc9-9tA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f655cWCQEeuZ8OMmc9-9tA" x="440" y="440"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_njtd4GCQEeuZ8OMmc9-9tA" type="AssociationClass_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_njtd4mCQEeuZ8OMmc9-9tA" type="AssociationClass_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njtd42CQEeuZ8OMmc9-9tA" type="AssociationClass_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njtd5GCQEeuZ8OMmc9-9tA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_njtd5WCQEeuZ8OMmc9-9tA" type="AssociationClass_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_njtd5mCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_njtd52CQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_njtd6GCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_njtd6WCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_njtd6mCQEeuZ8OMmc9-9tA" type="AssociationClass_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_njtd62CQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_njtd7GCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_njtd7WCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_njtd7mCQEeuZ8OMmc9-9tA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_njtd72CQEeuZ8OMmc9-9tA" type="AssociationClass_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_njtd8GCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_njtd8WCQEeuZ8OMmc9-9tA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_njtd8mCQEeuZ8OMmc9-9tA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_njtd82CQEeuZ8OMmc9-9tA"/>
+    </children>
+    <element xmi:type="uml:AssociationClass" href="Polideportivo.uml#_njI2IGCQEeuZ8OMmc9-9tA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_njtd4WCQEeuZ8OMmc9-9tA" x="540" y="180"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_VAhW4WCNEeu1TbC6FHBbbQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_VAhW4mCNEeu1TbC6FHBbbQ"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_VAhW42CNEeu1TbC6FHBbbQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="Polideportivo.uml#_U9sFUGCNEeu1TbC6FHBbbQ"/>
+  </styles>
+  <element xmi:type="uml:Model" href="Polideportivo.uml#_U9sFUGCNEeu1TbC6FHBbbQ"/>
+  <edges xmi:type="notation:Connector" xmi:id="_VEKZYGCQEeuZ8OMmc9-9tA" type="Association_Edge" source="_l0YVoGCNEeu1TbC6FHBbbQ" target="_HYJnQWCOEeu1TbC6FHBbbQ">
+    <children xmi:type="notation:DecorationNode" xmi:id="_VELAcGCQEeuZ8OMmc9-9tA" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VELAcWCQEeuZ8OMmc9-9tA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_VELngGCQEeuZ8OMmc9-9tA" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VELngWCQEeuZ8OMmc9-9tA" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_VELngmCQEeuZ8OMmc9-9tA" type="Association_TargetRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VELng2CQEeuZ8OMmc9-9tA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_VELnhGCQEeuZ8OMmc9-9tA" type="Association_SourceRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VELnhWCQEeuZ8OMmc9-9tA" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_VELnhmCQEeuZ8OMmc9-9tA" type="Association_SourceMultiplicityLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VELnh2CQEeuZ8OMmc9-9tA" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_VELniGCQEeuZ8OMmc9-9tA" type="Association_TargetMultiplicityLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_VELniWCQEeuZ8OMmc9-9tA" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_VEKZYWCQEeuZ8OMmc9-9tA"/>
+    <element xmi:type="uml:Association" href="Polideportivo.uml#_VDxX0GCQEeuZ8OMmc9-9tA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VEKZYmCQEeuZ8OMmc9-9tA" points="[323, 200, -643984, -643984]$[420, 100, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE4LEGCQEeuZ8OMmc9-9tA" id="(1.0,0.4)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE4LEWCQEeuZ8OMmc9-9tA" id="(0.0,0.4)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_cA3s0GCQEeuZ8OMmc9-9tA" type="AssociationClass_Edge" source="_l0YVoGCNEeu1TbC6FHBbbQ" target="_IjcVsWCOEeu1TbC6FHBbbQ">
+    <children xmi:type="notation:DecorationNode" xmi:id="_cA4T4GCQEeuZ8OMmc9-9tA" type="AssociationClass_SourceRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cA4T4WCQEeuZ8OMmc9-9tA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_cA4T4mCQEeuZ8OMmc9-9tA" type="AssociationClass_TargetRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cA4T42CQEeuZ8OMmc9-9tA" y="20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_cA3s0WCQEeuZ8OMmc9-9tA"/>
+    <element xmi:type="uml:AssociationClass" href="Polideportivo.uml#_cAsGoGCQEeuZ8OMmc9-9tA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cA3s0mCQEeuZ8OMmc9-9tA" points="[280, 260, -643984, -643984]$[280, 320, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cBPgQGCQEeuZ8OMmc9-9tA" id="(0.5825242718446602,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cBQHUGCQEeuZ8OMmc9-9tA" id="(0.4,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_cBvPgGCQEeuZ8OMmc9-9tA" type="AssociationClass_TetherEdge" source="_cA3s0GCQEeuZ8OMmc9-9tA" target="_cBXcEGCQEeuZ8OMmc9-9tA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_cBvPgWCQEeuZ8OMmc9-9tA"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cBvPgmCQEeuZ8OMmc9-9tA" points="[-50, -50, 0, 0]$[-50, -50, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cBvPg2CQEeuZ8OMmc9-9tA" id="(0.49606299212598426,0.49606299212598426)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cbAEEGCQEeuZ8OMmc9-9tA" id="(1.0,0.42)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_f6VRsGCQEeuZ8OMmc9-9tA" type="AssociationClass_Edge" source="_IjcVsWCOEeu1TbC6FHBbbQ" target="_IjcVsWCOEeu1TbC6FHBbbQ">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f6VRs2CQEeuZ8OMmc9-9tA" type="AssociationClass_SourceRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_f6VRtGCQEeuZ8OMmc9-9tA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_f6VRtWCQEeuZ8OMmc9-9tA" type="AssociationClass_TargetRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_f6VRtmCQEeuZ8OMmc9-9tA" y="20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_f6VRsWCQEeuZ8OMmc9-9tA"/>
+    <element xmi:type="uml:AssociationClass" href="Polideportivo.uml#_f6HPQGCQEeuZ8OMmc9-9tA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_f6VRsmCQEeuZ8OMmc9-9tA" points="[280, 420, -643984, -643984]$[240, 380, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f6uTQGCQEeuZ8OMmc9-9tA" id="(1.0,0.6)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f6uTQWCQEeuZ8OMmc9-9tA" id="(0.6,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_f7XMcGCQEeuZ8OMmc9-9tA" type="AssociationClass_TetherEdge" source="_f6VRsGCQEeuZ8OMmc9-9tA" target="_f655cGCQEeuZ8OMmc9-9tA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_f7XMcWCQEeuZ8OMmc9-9tA"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_f7XMcmCQEeuZ8OMmc9-9tA" points="[-50, -50, 0, 0]$[-50, -50, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f7XzgGCQEeuZ8OMmc9-9tA" id="(0.49606299212598426,0.49606299212598426)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gO_TEGCQEeuZ8OMmc9-9tA" id="(0.0,0.29)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_njTOMGCQEeuZ8OMmc9-9tA" type="AssociationClass_Edge" source="_l0YVoGCNEeu1TbC6FHBbbQ" target="_Lfl9wWCOEeu1TbC6FHBbbQ">
+    <children xmi:type="notation:DecorationNode" xmi:id="_njTOM2CQEeuZ8OMmc9-9tA" type="AssociationClass_SourceRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njTONGCQEeuZ8OMmc9-9tA" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njT1QGCQEeuZ8OMmc9-9tA" type="AssociationClass_TargetRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njT1QWCQEeuZ8OMmc9-9tA" y="20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_njTOMWCQEeuZ8OMmc9-9tA"/>
+    <element xmi:type="uml:AssociationClass" href="Polideportivo.uml#_njI2IGCQEeuZ8OMmc9-9tA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_njTOMmCQEeuZ8OMmc9-9tA" points="[323, 220, -643984, -643984]$[600, 340, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njliEGCQEeuZ8OMmc9-9tA" id="(1.0,0.6)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njliEWCQEeuZ8OMmc9-9tA" id="(0.0,0.4)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_nkHGgGCQEeuZ8OMmc9-9tA" type="AssociationClass_TetherEdge" source="_njTOMGCQEeuZ8OMmc9-9tA" target="_njtd4GCQEeuZ8OMmc9-9tA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_nkHGgWCQEeuZ8OMmc9-9tA"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nkHGgmCQEeuZ8OMmc9-9tA" points="[-50, -50, 0, 0]$[-50, -50, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nkHtkGCQEeuZ8OMmc9-9tA" id="(0.49606299212598426,0.49606299212598426)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_n45DsGCQEeuZ8OMmc9-9tA" id="(0.0,0.72)"/>
+  </edges>
+</notation:Diagram>

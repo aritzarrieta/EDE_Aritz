@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_U9sFUGCNEeu1TbC6FHBbbQ" name="Polideportivo">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_VHrHwGCNEeu1TbC6FHBbbQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_l0OkoGCNEeu1TbC6FHBbbQ" name="Polideportivo"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_HYJnQGCOEeu1TbC6FHBbbQ" name="Personal"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IjcVsGCOEeu1TbC6FHBbbQ" name="Socio"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Lfl9wGCOEeu1TbC6FHBbbQ" name="Instalacion"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_VDxX0GCQEeuZ8OMmc9-9tA" memberEnd="_VDz0EGCQEeuZ8OMmc9-9tA _VD1CMGCQEeuZ8OMmc9-9tA" navigableOwnedEnd="_VD1CMGCQEeuZ8OMmc9-9tA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VDyl8GCQEeuZ8OMmc9-9tA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VDzNAGCQEeuZ8OMmc9-9tA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_VDz0EGCQEeuZ8OMmc9-9tA" name="personal" type="_HYJnQGCOEeu1TbC6FHBbbQ" association="_VDxX0GCQEeuZ8OMmc9-9tA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2c6GwGCQEeuZ8OMmc9-9tA" value="*"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_VD1CMGCQEeuZ8OMmc9-9tA" name="polideportivo" type="_l0OkoGCNEeu1TbC6FHBbbQ" association="_VDxX0GCQEeuZ8OMmc9-9tA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:AssociationClass" xmi:id="_cAsGoGCQEeuZ8OMmc9-9tA" name="esSocio" memberEnd="_cAt70mCQEeuZ8OMmc9-9tA _cAui4GCQEeuZ8OMmc9-9tA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cAt70GCQEeuZ8OMmc9-9tA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cAt70WCQEeuZ8OMmc9-9tA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_cAt70mCQEeuZ8OMmc9-9tA" name="socio" type="_IjcVsGCOEeu1TbC6FHBbbQ" association="_cAsGoGCQEeuZ8OMmc9-9tA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_cAui4GCQEeuZ8OMmc9-9tA" name="polideportivo" type="_l0OkoGCNEeu1TbC6FHBbbQ" association="_cAsGoGCQEeuZ8OMmc9-9tA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:AssociationClass" xmi:id="_f6HPQGCQEeuZ8OMmc9-9tA" name="Parentesco" memberEnd="_f6H2UmCQEeuZ8OMmc9-9tA _f6H2U2CQEeuZ8OMmc9-9tA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_f6H2UGCQEeuZ8OMmc9-9tA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_f6H2UWCQEeuZ8OMmc9-9tA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_f6H2UmCQEeuZ8OMmc9-9tA" name="socio" type="_IjcVsGCOEeu1TbC6FHBbbQ" association="_f6HPQGCQEeuZ8OMmc9-9tA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_f6H2U2CQEeuZ8OMmc9-9tA" name="socio" type="_IjcVsGCOEeu1TbC6FHBbbQ" association="_f6HPQGCQEeuZ8OMmc9-9tA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:AssociationClass" xmi:id="_njI2IGCQEeuZ8OMmc9-9tA" name="Pertenece" memberEnd="_njJdMmCQEeuZ8OMmc9-9tA _njKEQGCQEeuZ8OMmc9-9tA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_njJdMGCQEeuZ8OMmc9-9tA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_njJdMWCQEeuZ8OMmc9-9tA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_njJdMmCQEeuZ8OMmc9-9tA" name="instalacion" type="_Lfl9wGCOEeu1TbC6FHBbbQ" association="_njI2IGCQEeuZ8OMmc9-9tA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_njKEQGCQEeuZ8OMmc9-9tA" name="polideportivo" type="_l0OkoGCNEeu1TbC6FHBbbQ" association="_njI2IGCQEeuZ8OMmc9-9tA"/>
+  </packagedElement>
+</uml:Model>

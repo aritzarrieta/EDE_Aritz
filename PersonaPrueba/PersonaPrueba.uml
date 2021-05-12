@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_6LipwGCSEeuZ8OMmc9-9tA" name="PersonaPrueba">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_6PLMkGCSEeuZ8OMmc9-9tA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_74vycGCSEeuZ8OMmc9-9tA" name="Persona">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_fClC8GCTEeuZ8OMmc9-9tA" name="Nombre" visibility="protected">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_l3sgoGCTEeuZ8OMmc9-9tA" name="edad" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_1lAHAGCTEeuZ8OMmc9-9tA" name="Persona"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_8tB5oGCTEeuZ8OMmc9-9tA" name="esMayorQue">
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_ipykwGCUEeuZ8OMmc9-9tA" name="Otro" type="_74vycGCSEeuZ8OMmc9-9tA"/>
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_m3CoUGCUEeuZ8OMmc9-9tA" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://PapyrusJava_LIBRARIES/JavaLibrary.uml#_f-GnEPaLEeW5KOK8aDMdgA"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+</uml:Model>
