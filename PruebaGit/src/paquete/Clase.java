@@ -16,6 +16,6 @@ public class Clase {
 	 */
 	public boolean nombreMetodo (int var1, boolean var2) {
 		
-		return true;}
+		return false;}
 
 }
